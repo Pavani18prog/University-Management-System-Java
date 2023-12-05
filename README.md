@@ -1,12 +1,8 @@
 # University-Management-System-Java
 - Create a folder and download the files.
-  
-- Also download the JAR files from the libraries folder.
-  
-- The exeJar files are to be placed in the project path and to be added in the reference libraries in the project structure.
-  
-- Any Java platform can use.(Vs Code ,IntelliJ).
-  
+- Also download the JAR files from the libraries folder. 
+- The exeJar files are to be placed in the project path and to be added in the reference libraries in the project structure. 
+- Any Java platform can use.(Vs Code ,IntelliJ). 
 - Run the splash.java file first.
   <br>
 - Features used:
